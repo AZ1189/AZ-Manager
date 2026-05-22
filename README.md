@@ -1,6 +1,6 @@
 ﻿# AZ Manager
 
-Version: 0.2.2
+Version: 0.2.3
 
 Launcher and installer manager for AZ apps.
 
