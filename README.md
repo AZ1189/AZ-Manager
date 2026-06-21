@@ -1,10 +1,10 @@
 # AZ Manager
 
-Version: 0.3.9
+Version: 0.3.10
 
-Fixes master multi-uninstall launching, keeps separate per-app installers, and tightens batch popup result layout.
+Adds a startup loading screen, preloads app icons before showing the grid, and adds Windows tray startup update notifications.
 
 Installer SHA-256:
-6D7C394AE36DD0B26E59248CBE8FF6F1981873C080A35A35E8CC78385AA567D0
+E12D24FB27ADB7007F349D85DB97FFDFC783353A5B8A4F6EC5F82270F9C719F1
 
 Installers are published in GitHub Releases for AZ Manager.
