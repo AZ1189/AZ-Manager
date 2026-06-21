@@ -1,10 +1,10 @@
 # AZ Manager
 
-Version: 0.3.6
+Version: 0.3.7
 
-Improves startup/update reliability, reduces packaged files, and hardens file, manifest and UI error handling.
+Simplifies the Manager ribbon, removes redundant status text, and shows selected-app commands only on app details.
 
 Installer SHA-256:
-d62b58d0ef292c0dce459bce0a922a262b059df83c4fb081fc5f350c2830e279
+88bb781a36b05742acb4bf158ec5d2adbeeee3d2c484c6c528f56741c5d2f3c6
 
 Installers are published in GitHub Releases for AZ Manager.
