@@ -1,10 +1,10 @@
 # AZ Manager
 
-Version: 0.3.4
+Version: 0.3.5
 
-Removes the native menu bar, switches Manager actions to orange single-color icons, neutralizes the app library cards, and adds Grid/List app views.
+Aligns List view columns and replaces Manager action icons with cleaner orange SVG icons.
 
 Installer SHA-256:
-7aaaf0164841608c5d3d42a38d5935215c493251a9dde14d476fa4a9f3f3d1c5
+88e4185aea5cad1c20ab919334eb661afe7327bb22c327933fcb02be2499797f
 
 Installers are published in GitHub Releases for AZ Manager.
