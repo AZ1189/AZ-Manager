@@ -1,10 +1,10 @@
 # AZ Manager
 
-Version: 0.3.8
+Version: 0.3.9
 
-Adds Home multi-install and multi-uninstall tick-list popups, with batch progress and standard AZ folder install handling.
+Fixes master multi-uninstall launching, keeps separate per-app installers, and tightens batch popup result layout.
 
 Installer SHA-256:
-897A291BD2DFD23EFCFA9E8EA6B8AF2EFB09C6C0239AADF8439457B4B647650E
+6D7C394AE36DD0B26E59248CBE8FF6F1981873C080A35A35E8CC78385AA567D0
 
 Installers are published in GitHub Releases for AZ Manager.
