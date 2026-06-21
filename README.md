@@ -1,10 +1,10 @@
 # AZ Manager
 
-Version: 0.3.5
+Version: 0.3.6
 
-Aligns List view columns and replaces Manager action icons with cleaner orange SVG icons.
+Improves startup/update reliability, reduces packaged files, and hardens file, manifest and UI error handling.
 
 Installer SHA-256:
-88e4185aea5cad1c20ab919334eb661afe7327bb22c327933fcb02be2499797f
+d62b58d0ef292c0dce459bce0a922a262b059df83c4fb081fc5f350c2830e279
 
 Installers are published in GitHub Releases for AZ Manager.
