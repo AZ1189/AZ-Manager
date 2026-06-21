@@ -1,10 +1,10 @@
 # AZ Manager
 
-Version: 0.3.7
+Version: 0.3.8
 
-Simplifies the Manager ribbon, removes redundant status text, and shows selected-app commands only on app details.
+Adds Home multi-install and multi-uninstall tick-list popups, with batch progress and standard AZ folder install handling.
 
 Installer SHA-256:
-88bb781a36b05742acb4bf158ec5d2adbeeee3d2c484c6c528f56741c5d2f3c6
+897A291BD2DFD23EFCFA9E8EA6B8AF2EFB09C6C0239AADF8439457B4B647650E
 
 Installers are published in GitHub Releases for AZ Manager.
